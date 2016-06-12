@@ -41,23 +41,23 @@ section {
 }
 
 /* Screens Settings */
-#screen1 {
+#home {
 	background: #43b29d;
 }
 
-#screen1 p {
+#home p {
 	padding-top: 200px;
 }
 
-#screen2 {
+#about {
 	background: #efc94d;
 }
 
-#screen3 {
+#portfolio {
 	background: #e1793d;
 }
 
-#screen4 {
+#contact {
 	background: #3da5e1;
 }
 
