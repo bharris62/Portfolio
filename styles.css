@@ -14,6 +14,7 @@ body {
 	color: #fff;
 	font-family: 'open-sans-bold', AvenirNext-Medium, sans-serif;
 	font-size: 18px;
+  font-weight: bold;
 	text-align: center;
 }
 
@@ -31,9 +32,11 @@ nav li {
 	padding: 24px 10px;
 }
 
-nav li a {
-	color: #757575;
+nav li a:hover {
+	color: black;
 	text-transform: uppercase;
+	text-decoration: none; 
+
 }
 
 section {
@@ -71,4 +74,13 @@ section {
 		font-size: 14px;
 	}
 
+}
+
+#top-home {
+	padding-top: 10px;
+}
+
+#main-name {
+  font-weight: bold;
+  font-size: 40px;
 }
