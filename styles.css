@@ -35,7 +35,7 @@ nav li {
 nav li a:hover {
 	color: black;
 	text-transform: uppercase;
-	text-decoration: none; 
+	text-decoration: none;
 
 }
 
@@ -83,4 +83,8 @@ section {
 #main-name {
   font-weight: bold;
   font-size: 40px;
+}
+
+#header-text {
+	padding-top: 60px; 
 }
